@@ -1,8 +1,6 @@
 ### Hello World! <img src="https://github.com/brittleru/brittleru/blob/main/Hi.gif" width="28px">
 <img src="https://github.com/brittleru/brittleru/blob/main/logo.png" width="200px">
-<!--
-**brittleru/brittleru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
 - 🔭 I’m currently working on a Web Transmission Drone
 - 🌱 I’m currently learning Spring Framework
 <code><a href="https://spring.io/" target="_blank"><img height="50" src="https://github.com/brittleru/brittleru/blob/main/spring.png></a></code>
