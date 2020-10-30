@@ -1,5 +1,9 @@
-<img src="https://github.com/brittleru/brittleru/blob/main/logo.png" width="200px"> <br>
-### Hello World! <img src="https://github.com/brittleru/brittleru/blob/main/Hi.gif" width="28px">
+<img src="https://github.com/brittleru/brittleru/blob/main/logo.png" width="200px" align="right">
+  
+          
+### &nbsp;Hello World!<img src="https://github.com/brittleru/brittleru/blob/main/Hi.gif" width="28px" align="left">
+
+<br>
 
 ## 👨🏻‍💻 &nbsp;About Me
 I'm a final year student at "Universitatea Politehnica Bucuresti pursuing my banchelor's in Mechatronics and Robotics and I'm interested to work in Web Development, I'm currently enjoing doing it in my free time. 
@@ -20,6 +24,7 @@ I'm a final year student at "Universitatea Politehnica Bucuresti pursuing my ban
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)\
@@ -29,7 +34,7 @@ I'm a final year student at "Universitatea Politehnica Bucuresti pursuing my ban
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/brittleru">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=brittleru&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=brittleru&layout=compact&langs_count=8&theme=react"/>
 </a>
