@@ -9,9 +9,9 @@
 I'm a final year student at "Universitatea Politehnica Bucuresti pursuing my banchelor's in Mechatronics and Robotics and I'm interested to work in Web Development, I'm currently enjoing doing it in my free time. 
 
 - 🔭 I’m currently working on a Web Transmission Drone
-- 🌱 I’m currently learning Spring Framework 
+- 🌱 I’m currently learning Laravel (PHP) Framework
+- :books: I want to learn Spring Framework 
 <code><a href="https://spring.io/" target="_blank"><img height="17px" src="https://github.com/brittleru/brittleru/blob/main/spring.png"></a></code>
-- :books: I want to learn AngularJS
 - 👯 I’m looking to collaborate on awesome projects or hackatons
 - 💬 Ask me anything
 
