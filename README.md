@@ -6,7 +6,7 @@
 <br>
 
 ## 👨🏻‍💻 &nbsp;About Me
-I'm a final year student at "Universitatea Politehnica Bucuresti pursuing my banchelor's in Mechatronics and Robotics and I'm interested to work in Web Development, I'm currently enjoing doing it in my free time. 
+I'm a final year student at "Universitatea Politehnica Bucuresti pursuing my banchelor's in Mechatronics and Robotics and I'm a Software Developer and I'm interested in Web Development, I'm currently enjoing doing it in my free time. 
 
 - 🔭 I’m currently working on a Web Transmission Drone
 - 🌱 I’m currently learning Laravel (PHP) Framework
