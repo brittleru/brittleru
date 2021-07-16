@@ -6,11 +6,11 @@
 <br>
 
 ## 👨🏻‍💻 &nbsp;About Me
-I'm a final year student at "Universitatea Politehnica Bucuresti pursuing my banchelor's in Mechatronics and Robotics and I'm a Software Developer who is interested in Web Development, I'm currently enjoing doing it in my free time. 
+I'm student at "Universitatea Politehnica din Bucuresti", studying the master's program in Artificial Intelligence (English), I have a bachelor's in Mechatronics and Robotics. Also, I'm a Software Developer who is in love with Web Development and Mobile Robotics, I'm currently enjoying doing it in my free time.
 
 - 🔭 I’m currently working on a Web Transmission Drone
-- 🌱 I’m currently learning Laravel (PHP) Framework
-- :books: I want to learn Spring Framework 
+- 🌱 I’m currently learning Laravel (PHP) Framework and Golang
+- :books: I want to learn Spring (Java) Framework 
 <code><a href="https://spring.io/" target="_blank"><img height="17px" src="https://github.com/brittleru/brittleru/blob/main/spring.png"></a></code>
 - 👯 I’m looking to collaborate on awesome projects or hackatons
 - 💬 Ask me anything
