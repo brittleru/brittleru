@@ -6,7 +6,7 @@
 <br>
 
 ## 👨🏻‍💻 &nbsp;About Me
-I'm student at "Universitatea Politehnica din Bucuresti", studying the master's program in Artificial Intelligence (English) and I have a bachelor's in Mechatronics and Robotics. Also, I'm a Software Developer who is in love with Web Development and Mobile Robotics, I'm currently enjoying doing it in my free time.
+I'm student at "Universitatea Politehnica din Bucuresti", studying the master's program in Artificial Intelligence (English) and I have a bachelor's in Mechatronics and Robotics. Beside that, I'm a Software Developer who is in love with Web Development and Mobile Robotics, I'm currently enjoying doing it in my free time and I'm excited for opportunities to work as a Machine Learning Engineer so if you want to work together just hit me up.
 
 - 🔭 I’m currently working on a Web Transmission Drone
 - 🌱 I’m currently learning Laravel (PHP) Framework and Golang
