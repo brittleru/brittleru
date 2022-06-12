@@ -1,7 +1,7 @@
 <img src="https://github.com/brittleru/brittleru/blob/main/logo.png" width="200px" align="right">
   
           
-### &nbsp;Hello World!<img src="https://github.com/brittleru/brittleru/blob/main/Hi.gif" width="28px" align="left">
+### &nbsp;Hello World! <img src="https://github.com/brittleru/brittleru/blob/main/Hi.gif" width="28px" height="28px" align="left">
 
 <br>
 
