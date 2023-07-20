@@ -51,14 +51,14 @@ I'm student at "Universitatea Politehnica din Bucuresti", studying the master's 
 <a href="https://www.facebook.com/SSeby14/" target="_blank">
   <img align="left" alt="Mocanu Sebastian Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.linkedin.com/in/mocanu-sebastian-b76a61184/" target="_blank">
-  <img align="left" alt="Mocanu Sebastian LinkdedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/sebastian-mocanu-b76a61184/" target="_blank">
+  <img align="left" alt="Sebastian Mocanu LinkdedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.freecodecamp.org/brittle" target="_blank">
-  <img align="left" alt="Mocanu Sebastian LinkdedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/freecodecamp.svg" />
+  <img align="left" alt="Mocanu Sebastian FreeCodeCamp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/freecodecamp.svg" />
 </a>
 <a href="mailto:smocanu10@yahoo.com" subject="feedback" target="_blank">
-  <img align="left" alt="Mocanu Sebastian LinkdedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/yahoo.svg" />
+  <img align="left" alt="Mocanu Sebastian Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/yahoo.svg" />
 </a>
 
 ![Visitors](https://komarev.com/ghpvc/?username=brittleru&color=brightgreen&style=plastic&label=Visitors)
