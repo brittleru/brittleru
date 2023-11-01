@@ -6,7 +6,7 @@
 <br>
 
 ## 👨🏻‍💻 &nbsp;About Me
-I'm student at "Universitatea Politehnica din Bucuresti", studying the master's program in Artificial Intelligence (English) and I have a bachelor's in Mechatronics and Robotics. Beside that, I'm a Software Developer who is in love with Web Development and Mobile Robotics, I'm currently enjoying doing it in my free time and I'm excited for opportunities to work as a Machine Learning Engineer so if you want to work together just hit me up.
+I'm an AI researcher with a focus on Computer Vision. Besides that, I'm a software developer who enjoys building projects from scratch and optimizing things. Currently, I'm a PhD student in Computer Science with a focus on Artificial Intelligence and High-Performance Computing.
 
 - 👯 I’m looking to collaborate on awesome projects or hackatons
 - 💬 Ask me anything
@@ -15,17 +15,21 @@ I'm student at "Universitatea Politehnica din Bucuresti", studying the master's 
 ## 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)&nbsp;
+![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)&nbsp;
+![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=springboot)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)\
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
+
 
 ## ⚙️ &nbsp;GitHub Analytics
 
@@ -41,20 +45,14 @@ I'm student at "Universitatea Politehnica din Bucuresti", studying the master's 
 <a href="https://brittleru.github.io/sebastianmocanu/" target="_blank">
   <img align="left" alt="Mocanu Sebastian Personal Site" width="22px" src="https://github.com/brittleru/brittleru/blob/main/avatar.png" />
 </a>
-<a href="https://github.com/brittleru" target="_blank">
-  <img align="left" alt="Mocanu Sebastian Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.facebook.com/SSeby14/" target="_blank">
-  <img align="left" alt="Mocanu Sebastian Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
 <a href="https://www.linkedin.com/in/sebastian-mocanu-b76a61184/" target="_blank">
   <img align="left" alt="Sebastian Mocanu LinkdedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.freecodecamp.org/brittle" target="_blank">
-  <img align="left" alt="Mocanu Sebastian FreeCodeCamp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/freecodecamp.svg" />
-</a>
 <a href="mailto:smocanu10@yahoo.com" subject="feedback" target="_blank">
   <img align="left" alt="Mocanu Sebastian Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/yahoo.svg" />
+</a>
+<a href="mailto:sebastian.mocanu31@gmail.com" subject="feedback" target="_blank">
+  <img align="left" alt="Mocanu Sebastian Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/google.svg" />
 </a>
 
 ![Visitors](https://komarev.com/ghpvc/?username=brittleru&color=brightgreen&style=plastic&label=Visitors)
