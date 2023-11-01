@@ -8,10 +8,6 @@
 ## 👨🏻‍💻 &nbsp;About Me
 I'm student at "Universitatea Politehnica din Bucuresti", studying the master's program in Artificial Intelligence (English) and I have a bachelor's in Mechatronics and Robotics. Beside that, I'm a Software Developer who is in love with Web Development and Mobile Robotics, I'm currently enjoying doing it in my free time and I'm excited for opportunities to work as a Machine Learning Engineer so if you want to work together just hit me up.
 
-- 🔭 I’m currently working on a Web Transmission Drone
-- 🌱 I’m currently learning Laravel (PHP) Framework and Golang
-- :books: I want to learn Spring (Java) Framework 
-<code><a href="https://spring.io/" target="_blank"><img height="17px" src="https://github.com/brittleru/brittleru/blob/main/spring.png"></a></code>
 - 👯 I’m looking to collaborate on awesome projects or hackatons
 - 💬 Ask me anything
 
