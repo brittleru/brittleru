@@ -50,8 +50,8 @@ convincing GPUs to cooperate with me.
 
 <p align="center">
 <a href="https://github.com/brittleru">
-  <img height="180em" src="profile/stats.svg" />
-  <img height="180em" src="profile/top-langs.svg" />
+  <img height="180em" src="profile/stats.svg?raw=true" />
+  <img height="180em" src="profile/top-langs.svg?raw=true" />
 </a>
 </p>
 
