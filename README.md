@@ -1,35 +1,43 @@
 <img src="https://github.com/brittleru/brittleru/blob/main/logo.png" width="200px" align="right">
   
           
-### &nbsp;Hello World! <img src="https://github.com/brittleru/brittleru/blob/main/Hi.gif" width="24" height="24" align="left">
+## &nbsp;Hello World! <img src="https://github.com/brittleru/brittleru/blob/main/Hi.gif" width="24" height="24" align="left">
 
 <br>
 
 ## 👨🏻‍💻 &nbsp;About Me
-I'm an AI researcher with a focus on Computer Vision. Besides that, I'm a software developer who enjoys building projects from scratch and optimizing things. Currently, I'm a PhD student in Computer Science with a focus on Artificial Intelligence and High-Performance Computing.
+I'm an AI researcher with a focus on Computer Vision, specifically teaching drones how to see and not crash into things. 
+Besides that, I'm a software developer who enjoys building projects from scratch, optimizing things. 
 
-- 👯 I’m looking to collaborate on awesome projects or hackatons
-- 💬 Ask me anything
+Currently doing my PhD in Computer Science, where I spend time on visual servoing, autonomous drone navigation, and 
+convincing GPUs to cooperate with me.
 
+- 👯 I’m looking to collaborate on awesome projects or hackatons.
+- 💬 Ask me anything.
 
 ## 🛠 &nbsp;Tech Stack
+**AI/ML**  
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
+![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=opencv)
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)&nbsp;
-![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)&nbsp;
-![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)&nbsp;
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=springboot)&nbsp;
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
+**Development**  
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=FFA518)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=springboot)
+![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 
+**Tools**  
+![ROS](https://img.shields.io/badge/-ROS-333333?style=flat&logo=ros)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 
 ## ⚙️ &nbsp;GitHub Analytics
 
@@ -41,20 +49,17 @@ I'm an AI researcher with a focus on Computer Vision. Besides that, I'm a softwa
 </p>
 
 
-## 📫 Reach me at:
-<a href="https://brittleru.github.io/sebastianmocanu/" target="_blank">
-  <img align="left" alt="Mocanu Sebastian Personal Site" width="22px" src="https://github.com/brittleru/brittleru/blob/main/avatar.png" />
-</a>
-<a href="https://www.linkedin.com/in/sebastian-mocanu-b76a61184/" target="_blank">
-  <img align="left" alt="Sebastian Mocanu LinkdedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="mailto:smocanu10@yahoo.com" subject="feedback" target="_blank">
-  <img align="left" alt="Mocanu Sebastian Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/yahoo.svg" />
-</a>
-<a href="mailto:sebastian.mocanu31@gmail.com" subject="feedback" target="_blank">
-  <img align="left" alt="Mocanu Sebastian Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/google.svg" />
+## 📫 Connect with Me:
+<a href="https://sebastianmocanu.com/" target="_blank">
+  <img align="left" style="vertical-align: middle;" alt="Mocanu Sebastian Personal Site" width="22px" src="avatar.png" />
 </a>
 
-![Visitors](https://komarev.com/ghpvc/?username=brittleru&color=brightgreen&style=plastic&label=Visitors)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/sebastian-mocanu-b76a61184/) 
+[![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-333333?style=flat&logo=google-scholar&logoColor=4285F4)](https://scholar.google.com/citations?user=osyBED4AAAAJ&hl=en)
+[![ORCID](https://img.shields.io/badge/-ORCID-333333?style=flat&logo=orcid&logoColor=A6CE39)](https://orcid.org/0009-0007-0313-4724)
+[![Email](https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail&logoColor=EA4335)](mailto:sebastian.mocanu31@gmail.com)
+![Visitors](https://komarev.com/ghpvc/?username=brittleru&color=brightgreen&style=flat&label=Visitors)
 
 <br />
+
+💬 *Open to collaborations, hackathons, or just nerding out about AI and robots!*
