@@ -50,10 +50,13 @@ convincing GPUs to cooperate with me.
 
 <p align="center">
 <a href="https://github.com/brittleru">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brittleru&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&custom_title=GitHub%20Activity&hide_rank=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brittleru&layout=compact&theme=react&hide_border=true&langs_count=10" />
+  <img height="180em" src="profile/stats.svg" />
+  <img height="180em" src="profile/top-langs.svg" />
 </a>
 </p>
+
+> These stats may reflect personal repos only. 
+> See more of my work at [Space Time Vision Robotics Laboratory](https://github.com/SpaceTime-Vision-Robotics-Laboratory)
 
 
 ## 📫 Connect with Me:
