@@ -1,9 +1,8 @@
 <img src="https://github.com/brittleru/brittleru/blob/main/logo.png" width="200px" align="right">
-  
-          
-## &nbsp;Hello World! <img src="https://github.com/brittleru/brittleru/blob/main/Hi.gif" width="24" height="24" align="left">
+    
+### &nbsp;Hello World! <img src="https://github.com/brittleru/brittleru/blob/main/Hi.gif" width="24" height="24" align="left">
 
-<br>
+<br />
 
 ## 👨🏻‍💻 &nbsp;About Me
 I'm an AI researcher with a focus on Computer Vision, specifically teaching drones how to see and not crash into things. 
@@ -50,16 +49,30 @@ convincing GPUs to cooperate with me.
 
 
 ## 📫 Connect with Me:
-<a href="https://sebastianmocanu.com/" target="_blank">
-  <img align="left" style="vertical-align: middle;" alt="Mocanu Sebastian Personal Site" width="22px" src="avatar.png" />
+<a href="https://sebastianmocanu.com/" target="_blank" style="text-decoration: none;">
+  <img style="vertical-align: middle;" alt="Mocanu Sebastian Personal Site" width="22px" src="avatar.png" />
 </a>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/sebastian-mocanu-b76a61184/) 
-[![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-333333?style=flat&logo=google-scholar&logoColor=4285F4)](https://scholar.google.com/citations?user=osyBED4AAAAJ&hl=en)
-[![ORCID](https://img.shields.io/badge/-ORCID-333333?style=flat&logo=orcid&logoColor=A6CE39)](https://orcid.org/0009-0007-0313-4724)
-[![Email](https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail&logoColor=EA4335)](mailto:sebastian.mocanu31@gmail.com)
-![Visitors](https://komarev.com/ghpvc/?username=brittleru&color=brightgreen&style=flat&label=Visitors)
+<a href="https://www.linkedin.com/in/sebastian-mocanu-b76a61184/" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+</a>
 
+<a href="https://scholar.google.com/citations?user=osyBED4AAAAJ&hl=en" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/-Google%20Scholar-333333?style=flat&logo=google-scholar&logoColor=4285F4" alt="Google Scholar" />
+</a>
+
+<a href="https://orcid.org/0009-0007-0313-4724" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/-ORCID-333333?style=flat&logo=orcid&logoColor=A6CE39" alt="ORCID" />
+</a>
+
+<a href="mailto:sebastian.mocanu31@gmail.com" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail&logoColor=EA4335" alt="Email" />
+</a>
+<a href="https://komarev.com/ghpvc/?username=brittleru&color=brightgreen&style=flat&label=Visitors" style="text-decoration: none;">
+  <img src="https://komarev.com/ghpvc/?username=brittleru&color=brightgreen&style=flat&label=Visitors" alt="Visitors" />
+</a>
+
+<br />
 <br />
 
 💬 *Open to collaborations, hackathons, or just nerding out about AI and robots!*
