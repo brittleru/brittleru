@@ -1,6 +1,6 @@
-<img src="https://github.com/brittleru/brittleru/blob/main/logo.png" width="200px" align="right">
+<img src="logo.png" alt="Sebastian Mocanu Logo" width="200px" align="right">
     
-### &nbsp;Hello World! <img src="https://github.com/brittleru/brittleru/blob/main/Hi.gif" width="24" height="24" align="left">
+### &nbsp;Hello World! <img src="Hi.gif" alt="Hi waving emoji" width="24" height="24" align="left">
 
 <br />
 
@@ -11,7 +11,7 @@ Besides that, I'm a software developer who enjoys building projects from scratch
 Currently doing my PhD in Computer Science, where I spend time on visual servoing, autonomous drone navigation, and 
 convincing GPUs to cooperate with me.
 
-- 👯 I’m looking to collaborate on awesome projects or hackatons.
+- 👯 I’m looking to collaborate on awesome projects or hackathons.
 - 💬 Ask me anything.
 
 ## 🛠 &nbsp;Tech Stack
@@ -20,9 +20,17 @@ convincing GPUs to cooperate with me.
 ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=opencv)
+![CUDA](https://img.shields.io/badge/-CUDA-333333?style=flat&logo=nvidia&logoColor=76B900)
+
+**Robotics & Simulation**  
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+![OpenGL](https://img.shields.io/badge/-OpenGL-333333?style=flat&logo=opengl&logoColor=5586A4)
+![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-333333?style=flat&logo=unrealengine&logoColor=white)
+![ROS](https://img.shields.io/badge/-ROS-333333?style=flat&logo=ros)
+![Gazebo](https://img.shields.io/badge/-Gazebo-333333?style=flat&logo=gazebo&logoColor=white)
+
 
 **Development**  
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=FFA518)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=springboot)
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
@@ -33,17 +41,17 @@ convincing GPUs to cooperate with me.
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 
 **Tools**  
-![ROS](https://img.shields.io/badge/-ROS-333333?style=flat&logo=ros)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+![CMake](https://img.shields.io/badge/-CMake-333333?style=flat&logo=cmake&logoColor=064F8C)
 
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/brittleru">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=brittleru&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=brittleru&layout=compact&langs_count=8&theme=react" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brittleru&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&custom_title=GitHub%20Activity&hide_rank=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brittleru&layout=compact&theme=react&hide_border=true&langs_count=10&size_weight=0.6&count_weight=0.4" />
 </a>
 </p>
 
