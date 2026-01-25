@@ -61,7 +61,7 @@ convincing GPUs to cooperate with me.
 
 ## 📫 Connect with Me:
 <a href="https://sebastianmocanu.com/" target="_blank" style="text-decoration: none;">
-  <img style="vertical-align: middle;" alt="Mocanu Sebastian Personal Site" width="22px" src="avatar.png" />
+  <img src="https://img.shields.io/badge/-Website-333333?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAMAAAC6V+0/AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAACbVBMVEUAAABEMS5LMCtOMClEMC5FMC5JMCtFMS07u6dKHx9JIiEqtpktt5wApVtaxMAbsoomtZUcs4wOr30AlB0YsYcgtJAuuJ0Eq3IksZC+AAw7UV+9AAw+UmFPYW9KZXc6VmlIMSxJMSxJMSxJMSxJMCxIMSxIMCxHLipHLipHLipILypIMCw6aVtIMi1HMS06aVtUwsMcupInim5zX1FyYFImjXEes40ZtIofs44asokptpkbsoofs44Zsogcs4s9vK4rt54bsoovuKEbsoobsosds4wZsoghtJEasokctY0hnX8gyJ41ZWg9T187Tlw5S1lodYBEVmM5S1s/VWU8T100SFYtP0s2SlhKXGlPY3I2TFwwQ1ApMzknLzU2TFtHLipILyp6XlCmh3GkhnCmiHKtjndzWEvqyKT/3rb/3bX/3bblw6EqiWy7noP/3rf+27T/27T/37e5n4Uoj3EWs4g5lnfWuJjRtJPbvJv92bL+2rPev53QspLLsZMxm3oXs4gYsYcbsoiSwpz00KvZupnmxqPnx6PZu5nwzqqPwpwjs4rK0qv/2rPryqbvzanvzqkZsogcsoihyqP/3LTz0asXsYc3t47f1a7y0a3p0bPr0rXz0q8asoiayaHfv5+yfHizfXnhwaD/3LUxto24zqf72bL8w6a5zqcZsYcYsogstozFy6X41K4YsocYs4gbrYYfmX1Yq5nl2br51a5Yq5ghnX8xa2kyTFiSm6L+6dGSmqE1XGI5SVgwQ1FTYGqZmJaklICllIA6S1k5S1kxRVMqOkQlLTI7TVs6S1osPEgmLjMrPEc8T1wmLzX////QhpD5AAAAX3RSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABZOcpysTzW/9v7RNh3DxB4BQsX+/sVR5TTeCak98H0ECboHtJZd/R3UbPsNnhWa+PiaFQtfx/XHXwsWUImmFt20oE8AAAABYktHRM702fL/AAAAB3RJTUUH6gEZFyYt9BLJRQAAAZVJREFUGNNjYAABRiYFRSVlFVVmFgY4YGVTU9fQjE/Q0mZjh4lxcOroJiYlp6Sm6elzcUDEuA0MjYzTMzKzMrJNTA0NuEFiPLxm5jm5efkFBfmFRcXmZrw8DAx8/BaWJaVl5RWVVdU1tXX1lhb8fAwCVtYNjU3NLa1VVW3tHZ2NDdZWAgyCNrYNXd09vX35+f29Pd1dDbY2ggxCdhMaJk7Kn5w/ZQqQmDSxYYKdEIO9dcOEqdOmF8yYOWt2wfRpUyc0WNszODg2TGiYMzdz3vwFCxfNnQPkODowODk3TJgwdfGSpcuWLV2+eOqECQ3OTgzCLhMmrFhZsmr1mjWrV5WsXDFhgoswg4ir29p16zds3LR586YtG9avW+vmKsIg6u6xcuu27Tt2Zmbu3LV929aVHu6iDGLinl679+zdt//Awf379u7Z7eUpLsbAIOHtc+jwkaPHgODokeMnfLwlgAEiKeXr53/k5Kljx06dPhMQGCQlDQ47meCQ0LCzx46dDQuPiJSFhbIcQ1R0TGxsTHQcgzyIDwCzIpUCM5v9OQAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyNi0wMS0yNVQyMzozNzoxNSswMDowML7iC9kAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjYtMDEtMjVUMjM6Mzc6MTIrMDA6MDAKGI3rAAAAAElFTkSuQmCC" alt="Website" />
 </a>
 
 <a href="https://www.linkedin.com/in/sebastian-mocanu-b76a61184/" target="_blank" style="text-decoration: none;">
@@ -74,6 +74,10 @@ convincing GPUs to cooperate with me.
 
 <a href="https://orcid.org/0009-0007-0313-4724" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/-ORCID-333333?style=flat&logo=orcid&logoColor=A6CE39" alt="ORCID" />
+</a>
+
+<a href="https://huggingface.co/brittleru" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/-HuggingFace-3B4252?style=flat&logo=huggingface&logoColor=" alt="Hugging Face" />
 </a>
 
 <a href="mailto:sebastian.mocanu31@gmail.com" style="text-decoration: none;">
