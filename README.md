@@ -65,7 +65,7 @@ convincing GPUs to cooperate with me.
 </a>
 
 <a href="https://www.linkedin.com/in/sebastian-mocanu-b76a61184/" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzBBNjZDMiI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMCAxLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMSAxIDIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=" alt="LinkedIn" />
 </a>
 
 <a href="https://scholar.google.com/citations?user=osyBED4AAAAJ&hl=en" target="_blank" style="text-decoration: none;">
@@ -77,7 +77,7 @@ convincing GPUs to cooperate with me.
 </a>
 
 <a href="https://huggingface.co/brittleru" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/-HuggingFace-3B4252?style=flat&logo=huggingface&logoColor=" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/-HuggingFace-3B4252?style=flat&logo=huggingface" alt="Hugging Face" />
 </a>
 
 <a href="mailto:sebastian.mocanu31@gmail.com" style="text-decoration: none;">
